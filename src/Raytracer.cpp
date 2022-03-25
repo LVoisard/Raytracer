@@ -87,8 +87,8 @@ void RayTracer::save_scene(Scene scene)
 	std::chrono::time_point<std::chrono::system_clock> start, end;
 	start = std::chrono::system_clock::now();
 
-	int dimx = scene.size.x();
-	int dimy = scene.size.y();
+	int dimx = scene.size[0];
+	int dimy = scene.size[1];
 
 	vector<double> buffer(3 * dimx * dimy);
 
