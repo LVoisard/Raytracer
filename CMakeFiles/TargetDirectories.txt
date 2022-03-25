@@ -1,0 +1,3 @@
+C:/Users/Laurent/OneDrive - Concordia University - Canada/Session 5/COMP 371/COMP371_all-master/COMP371_RaytracerBase/code/build/CMakeFiles/raytracer.dir
+C:/Users/Laurent/OneDrive - Concordia University - Canada/Session 5/COMP 371/COMP371_all-master/COMP371_RaytracerBase/code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Laurent/OneDrive - Concordia University - Canada/Session 5/COMP 371/COMP371_all-master/COMP371_RaytracerBase/code/build/CMakeFiles/ZERO_CHECK.dir
