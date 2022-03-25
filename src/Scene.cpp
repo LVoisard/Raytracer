@@ -26,7 +26,7 @@ Scene::Scene(json j)
 
 		filename = j["filename"].get<string>();
 
-		for (int i = 0; i < size.size(); i ++)
+		for (int i = 0; i < 2; i ++)
 		{
 			size[i] = j["size"][i].get<unsigned int>();
 		}
