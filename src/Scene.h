@@ -23,7 +23,7 @@ public:
 	Vector3f illuminate(HitRecord hrec);
 
 	string filename;
-	Vector2<unsigned int> size;
+	unsigned int size[2];
 	Camera camera;	
 	Vector3f ai;
 	Vector3f bkc;
